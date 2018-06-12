@@ -5,7 +5,7 @@
 * 联系方式：1416316137@qq.com 
 * 教育经历：合肥工业大学 - 计算机科学与技术 - 2016届本科 
 * 现居地点：广东广州
-* github：[https://github.com/yunshuipiao/SWBlog](https://github.com/yunshuipiao/SWBlog)
+* github：[https://github.com/yunshuipiao/](https://github.com/yunshuipiao/)
 
 
 ### 个人项目
