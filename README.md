@@ -8,7 +8,7 @@
 * github：[https://github.com/yunshuipiao/](https://github.com/yunshuipiao/)
 
 
-### 个人项目
+### 项目
 * 常用工具：sklearn, lightgbm, tensorflow, nltk
 * 常用算法：Logistic regression , Random forests, Neural Nets, Ensemble Learning
 * [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
@@ -27,7 +27,7 @@
 ### 工作经历
 #### 欢聚时代 (广州华多网络科技有限公司) 
 * 工作时间：2016.7 ～ 如今
-* 主要工作：Android 移动客户端开发
+* 主要工作：算法工程师
 
 ### 自我评价
 * 热爱开源，热爱分享，喜欢阅读机器学习相关论文
